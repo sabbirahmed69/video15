@@ -1,0 +1,55 @@
+.service {
+    border: 5px solid #0dcaf0;
+    padding: 15px;
+    font-weight: 400;
+}
+
+.site{
+    background-color: #7d4b4b;
+    color: #e8d5d5 ;
+    display: inline-block;
+    font-size: 50px;
+    margin-left: 100px;
+    padding: 150px 150px;
+    border-radius: 0px 100px 100px 0px;
+}
+
+.seo{
+    background-color: #4f7d4b;
+    color: #ffa0a4 ;
+    display: inline-block;
+    font-size: 60px;
+    margin-left: 800px;
+    padding: 150px 150px;
+    border-radius: 100px 0px 0px 100px;
+}
+
+.web{
+    background-color: #340e9d;
+    color: #e8d5d5 ;
+    display: inline-block;
+    font-size: 60px;
+    margin-left: 100px;
+    padding: 150px 50px;
+    border-radius: 0px 100px 100px 0px;
+}
+.contact{
+    border: 5px solid #0dcaf0;
+    padding: 15px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.button{
+    padding: 5px 15px;
+    border: 1px solid lightsteelblue;
+    border-radius: 5px;
+   
+}
+.footer{
+    background-color: black;
+    
+    color: #fff;
+    padding: 20px;
+    margin-bottom: -10px;
+
+}
